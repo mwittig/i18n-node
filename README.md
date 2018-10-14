@@ -1,4 +1,6 @@
-# i18n
+# i18n-node
+
+I created this fork as the original 'i18n' package does not appear to maintained at present.
 
 Lightweight simple translation module with dynamic json storage. Supports plain vanilla node.js apps and should work with any framework (like _express_, _restify_ and probably more) that exposes an `app.use()` method passing in `res` and `req` objects.
 Uses common __('...') syntax in app and templates.
