@@ -1,4 +1,4 @@
-# i18n-node
+# i18n-pimatic
 
 I created this fork as the original 'i18n' package does not appear to maintained at present.
 
