@@ -2,10 +2,10 @@
   "name": "i18n-pimatic",
   "description": "lightweight translation module with dynamic json storage",
   "version": "0.8.3",
-  "homepage": "http://github.com/mashpie/i18n-node",
+  "homepage": "http://github.com/mwittig/i18n-node",
   "repository": {
     "type": "git",
-    "url": "http://github.com/mashpie/i18n-node.git"
+    "url": "http://github.com/mwittig/i18n-node.git"
   },
   "author": "Marcus Spiegel <marcus.spiegel@gmail.com>",
   "main": "./index",
